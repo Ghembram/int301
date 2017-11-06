@@ -1,0 +1,31 @@
+asmuth444@gmail.com
+asmuth444
+
+GIT Docs
+
+
+pwd
+
+$mkdir GitSession
+
+$ cd GitSession
+
+$ git init
+
+$git config --global user.name "Jaspreet Singh"
+
+$ git config --global user.email "jaspreetsk96@gmail.com"
+
+$git add .
+
+$git status
+
+$ git commit -m "Initial Commit. Awein Awein."
+
+$ git remote add varname https://github.com/jas51/GitSession.git
+
+$ git pull origin master
+$ git push origin master
+
+$ git clone https://github.com/jas51/GitSession.git
+
