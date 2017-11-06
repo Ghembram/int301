@@ -3,12 +3,7 @@ asmuth444
 
 GIT Docs
 
-
 pwd
-
-$mkdir GitSession
-
-$ cd GitSession
 
 $ git init
 
@@ -23,9 +18,10 @@ $git status
 $ git commit -m "Initial Commit. Awein Awein."
 
 $ git remote add varname https://github.com/jas51/GitSession.git
+$ git push -u origin master
+
 
 $ git pull origin master
-$ git push origin master
 
 $ git clone https://github.com/jas51/GitSession.git
 
