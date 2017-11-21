@@ -1,0 +1,31 @@
+.card-alignment {
+	margin-top: 17%;
+	align-content: center;
+	width: 30%;
+	min-width: 350px;
+	background-color: gray;
+}
+
+.box {
+	text-align: center;
+}
+
+body {
+	background-image: url('bird.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+}
+
+.align-error{
+	color: red;
+	height: 10px;
+	margin-left: 40%;
+}
+
+.align-success{
+	color: green;
+	height: 10px;
+	margin-left: 30%;
+}
